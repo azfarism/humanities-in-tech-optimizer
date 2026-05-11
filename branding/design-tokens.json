@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "project": "Humanities in Tech",
+    "purpose": "Public design-token documentation for brand and UI direction",
+    "note": "Documentation only; not implementation code"
+  },
+  "color": {
+    "brand": {
+      "blue": "#4285F4",
+      "red": "#EA4335",
+      "yellow": "#FBBC05",
+      "green": "#34A853"
+    },
+    "neutral": {
+      "black": "#111111",
+      "white": "#FFFFFF",
+      "bgLight": "#F8F9FA",
+      "border": "#DADCE0"
+    },
+    "ui": {
+      "textPrimary": "#111111",
+      "textInverse": "#FFFFFF",
+      "surfacePrimary": "#FFFFFF",
+      "surfaceSubtle": "#F8F9FA",
+      "actionPrimary": "#4285F4",
+      "actionPrimaryHover": "#336FD1",
+      "focusRing": "#4285F480"
+    }
+  },
+  "typography": {
+    "direction": "Clean, geometric, legible, Google-adjacent",
+    "fontFamilies": {
+      "preferred": ["Inter", "Manrope", "DM Sans"],
+      "optionalHeadline": ["Poppins"]
+    },
+    "scale": {
+      "display": "48-56",
+      "h1": "36-44",
+      "h2": "28-32",
+      "h3": "22-24",
+      "body": "16-18",
+      "small": "14"
+    },
+    "weights": {
+      "regular": 400,
+      "medium": 500,
+      "semibold": 600,
+      "bold": 700
+    },
+    "lineHeights": {
+      "tight": 1.2,
+      "normal": 1.5,
+      "relaxed": 1.65
+    }
+  },
+  "spacing": {
+    "baseUnit": 4,
+    "scale": [4, 8, 12, 16, 24, 32, 40, 48, 64, 80],
+    "guidance": "Use 8px/4px rhythm with generous whitespace for readability"
+  },
+  "radius": {
+    "card": 12,
+    "input": 10,
+    "button": 999,
+    "chip": 999,
+    "modal": 16
+  },
+  "shadow": {
+    "sm": "0 1px 2px rgba(17,17,17,0.08)",
+    "md": "0 6px 20px rgba(17,17,17,0.10)",
+    "lg": "0 12px 32px rgba(17,17,17,0.14)",
+    "guidance": "Use subtle depth; avoid heavy/glossy effects"
+  },
+  "buttons": {
+    "primary": {
+      "background": "#4285F4",
+      "text": "#FFFFFF",
+      "shape": "pill or soft-rounded",
+      "behavior": "clear hover + visible focus ring"
+    },
+    "secondary": {
+      "background": "#FFFFFF",
+      "text": "#111111",
+      "border": "1px solid #DADCE0"
+    },
+    "note": "Buttons should feel calm and credible, never neon or overly playful"
+  }
+}
