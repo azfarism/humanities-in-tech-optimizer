@@ -1,3 +1,5 @@
+<img width="762" height="765" alt="Humanities In tech Logo" src="https://github.com/user-attachments/assets/2dc72465-210c-469d-96f4-5915e4065f2a" />
+
 # Humanities in Tech
 
 Humanities in Tech is a public portfolio record of product strategy and brand direction for a niche AI-powered CV and cover letter optimiser. The product concept is focused on helping humanities and nontraditional candidates translate their experience into credible tech and tech-adjacent applications.
